@@ -15,7 +15,7 @@ const events = [
     location: '埼玉県川越市',
     capacity: 20,
     averageAge: 29,
-    image: 'https://source.unsplash.com/featured/?kids,craft'
+    image: null
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const events = [
     location: '神奈川県藤沢市',
     capacity: 100,
     averageAge: 45,
-    image: 'https://source.unsplash.com/featured/?disaster,training'
+    image: null
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const events = [
     location: '千葉県木更津市',
     capacity: 30,
     averageAge: 31,
-    image: 'https://source.unsplash.com/featured/?bbq,community'
+    image: null
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const events = [
     location: '長野県軽井沢町',
     capacity: 40,
     averageAge: 27,
-    image: 'https://source.unsplash.com/featured/?stars,night'
+    image: null
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const events = [
     location: '栃木県日光市',
     capacity: 60,
     averageAge: 36,
-    image: 'https://source.unsplash.com/featured/?harvest,market'
+    image: null
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ const events = [
     location: '東京都墨田区',
     capacity: 80,
     averageAge: 42,
-    image: 'https://source.unsplash.com/featured/?art,exhibition'
+    image: null
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ const events = [
     location: '東京都国立市',
     capacity: 25,
     averageAge: 33,
-    image: 'https://source.unsplash.com/featured/?picturebook,reading'
+    image: null
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ const events = [
     location: '東京都八王子市',
     capacity: 70,
     averageAge: 38,
-    image: 'https://source.unsplash.com/featured/?illumination,winter'
+    image: null
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ const events = [
     location: '東京都文京区',
     capacity: 35,
     averageAge: 40,
-    image: 'https://source.unsplash.com/featured/?calligraphy,newyear'
+    image: null
   }
 ];
 
