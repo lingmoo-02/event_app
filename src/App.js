@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import EventList from './pages/EventList';
 import Login from './pages/Login';
 import Register from './pages/Register';
+import EventDetail from './pages/EventDetail';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
             <Route path="/events" element={<EventList />} />
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
+            <Route path="/events/:id" element={<EventDetail />} />
           </Routes>
         </Router>
       </FlashMessageProvider>
