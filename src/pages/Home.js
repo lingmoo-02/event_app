@@ -1,5 +1,6 @@
 import React from 'react';
 import Layout from '../components/Layout';
+import LogoImage from '../components/LogoImage'
 
 function Home() {
   return (
@@ -11,6 +12,9 @@ function Home() {
         <p className="text-lg md:text-xl text-green-600">
           地域のイベントを、みんなで見つけて・広げよう
         </p>
+
+        <LogoImage />
+
       </div>
     </Layout>
   );
